@@ -5,9 +5,9 @@
 title: Neumorphism
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
-# baseurl: The subpath of your site
+# baseurl: ""
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/neumorphism"
+baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
